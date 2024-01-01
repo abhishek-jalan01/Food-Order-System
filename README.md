@@ -9,6 +9,7 @@ The web application comprises a dashboard used by a restaurant's Admin for modif
 * Kushagra Singh
 * Raj Srivastava
 * Kathan Naik
+* Likith Sai
 
 ## ER Diagram
 
